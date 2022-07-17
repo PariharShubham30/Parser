@@ -1,2 +1,5 @@
 # Parser
-parse given text file according to the format based on certain rules
+
+## To run the project, just run the command:
+
+node index.js
